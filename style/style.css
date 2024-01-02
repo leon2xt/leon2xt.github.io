@@ -1,0 +1,57 @@
+body {
+    padding: 60px;
+    background-image: linear-gradient(to bottom, #000000, #030303, #060606, #090909, #0c0c0c);
+    color: #ffff;
+    
+}
+a{
+   text-decoration:none;
+   color:#ffff;
+}
+.navbar{
+    background-image: linear-gradient(to top, #000000, #030303, #060606, #090909, #0c0c0c);
+    padding: 15px;
+    
+}
+.navbar a:hover{
+color:#1dceff;
+}
+/* ===== Scrollbar CSS ===== */
+
+ /* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #757575 #858C8D;
+  }
+  
+  /* Chrome, Edge and Safari */
+  *::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+  }
+  *::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background-color: #858C8D;
+  }
+  
+  *::-webkit-scrollbar-track:hover {
+    background-color: #B8C0C2;
+  }
+  
+  *::-webkit-scrollbar-track:active {
+    background-color: #B8C0C2;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #757575;
+  }
+  
+  *::-webkit-scrollbar-thumb:hover {
+    background-color: #6E6F75;
+  }
+  
+  *::-webkit-scrollbar-thumb:active {
+    background-color: #697270;
+  }
+  
