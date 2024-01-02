@@ -1,6 +1,6 @@
 body {
     padding: 60px;
-    background-image: linear-gradient(to bottom, #000000, #030303, #060606, #090909, #0c0c0c);
+    background-image: linear-gradient(to right top, #0a0b0b, #021418, #001a25, #001e34, #101f41);
     color: #ffff;
     
 }
@@ -9,7 +9,7 @@ a{
    color:#ffff;
 }
 .navbar{
-    background-image: linear-gradient(to top, #000000, #030303, #060606, #090909, #0c0c0c);
+  background-image: linear-gradient(to right bottom, #0a0b0b, #021418, #001a25, #001e34, #101f41);
     padding: 15px;
     
 }
